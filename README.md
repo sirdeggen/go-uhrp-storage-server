@@ -1,5 +1,3 @@
-> 📣 **Notice:** Discussion underway about consolidating this repository into the [go-stack monorepo](https://github.com/bsv-blockchain/go-stack). No archive decision has been made yet — please weigh in at [bsv-blockchain/roadmap discussion #70](https://github.com/bsv-blockchain/roadmap/discussions/70) before any change is made.
-
 # go-uhrp-storage-server
 
 A Go reimplementation of the [BSV Lite Storage Server](https://github.com/bsv-blockchain/lite-storage-server) — a UHRP (Universal Hash Resolution Protocol) content-addressed file storage server with BSV authentication and payment integration.
